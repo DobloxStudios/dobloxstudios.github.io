@@ -39,26 +39,30 @@
 }
 
 .text1 {
-   margin-left: 300px;
-   margin-top: 100px;
+   margin-left: 23%;
+   margin-top: 5%;
    font-size: 50px;
 }
 
 .text2 {
-   margin-left: 300px;
+   margin-left: 23%;
    font-size: 50px;
 }
 
 .text3 {
-   margin-left: 300px;
+   margin-left: 23%;
    font-size: 25px;
 }
 
 .dobloximage{
-   margin-left: 750px;
-   margin-top: -265px;
+   margin-left: 60%;
+   margin-top: -20%;
 }
 
 .line {
    border: 2px solid dodgerblue;
+}
+
+.fontsize {
+   font-size: 50px;
 }
